@@ -1,0 +1,17 @@
+C:\Users\Elma\source\repos\Fantasy\Fantasy\bin\Debug\BURGER.accdb
+C:\Users\Elma\source\repos\Fantasy\Fantasy\bin\Debug\Fantasy.exe.config
+C:\Users\Elma\source\repos\Fantasy\Fantasy\bin\Debug\Fantasy.exe
+C:\Users\Elma\source\repos\Fantasy\Fantasy\bin\Debug\Fantasy.pdb
+C:\Users\Elma\source\repos\Fantasy\Fantasy\obj\Debug\Fantasy.Form1.resources
+C:\Users\Elma\source\repos\Fantasy\Fantasy\obj\Debug\Fantasy.Form2.resources
+C:\Users\Elma\source\repos\Fantasy\Fantasy\obj\Debug\Fantasy.Form3.resources
+C:\Users\Elma\source\repos\Fantasy\Fantasy\obj\Debug\Fantasy.Form4.resources
+C:\Users\Elma\source\repos\Fantasy\Fantasy\obj\Debug\Fantasy.Form5.resources
+C:\Users\Elma\source\repos\Fantasy\Fantasy\obj\Debug\Fantasy.Properties.Resources.resources
+C:\Users\Elma\source\repos\Fantasy\Fantasy\obj\Debug\Fantasy.csproj.GenerateResource.cache
+C:\Users\Elma\source\repos\Fantasy\Fantasy\obj\Debug\Fantasy.csproj.CoreCompileInputs.cache
+C:\Users\Elma\source\repos\Fantasy\Fantasy\obj\Debug\Fantasy.exe
+C:\Users\Elma\source\repos\Fantasy\Fantasy\obj\Debug\Fantasy.pdb
+C:\Users\Elma\source\repos\Fantasy\Fantasy\obj\Debug\Fantasy.csprojAssemblyReference.cache
+C:\Users\Elma\source\repos\Fantasy\Fantasy\obj\Debug\Fantasy.Form6.resources
+C:\Users\Elma\source\repos\Fantasy\Fantasy\obj\Debug\Fantasy.Form7.resources
